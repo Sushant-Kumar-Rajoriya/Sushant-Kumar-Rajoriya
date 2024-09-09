@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sushant-Kumar-Rajoriya
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+
 
 
 
